@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoomR - Ticket Service</string>
+
+    <string-array name="names">
+        <item>Electrician</item>
+        <item>Dry Wall Repair</item>
+        <item>Plumbing</item>
+        <item>Locksmith</item>
+    </string-array>
+
+</resources>
